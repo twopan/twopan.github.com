@@ -1,6 +1,3 @@
-
-	<meta name="Keywords" content="潘俊 浙江科技学院 温州大学 大数据 知识图谱">
-
 <table border="0">
   <tr>
     <td width="75%">
