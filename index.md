@@ -19,6 +19,7 @@
 </table>
 
 ## 学术论文
+<font color=#0099ff size=12 face="楷体">
 1. 潘俊.面向数字人文的人物分布式语义表示研究——基于CBDB数据库和古籍文献[J] 图书馆杂志，录用
 
 2. 潘俊,吴宗大.词汇分布语义的语言学基础探微[J].浙江社会科学,2019(12):99-104+158-159.
@@ -37,9 +38,9 @@
 
 9. 潘俊,孔繁胜,王瑞琴.加权成对约束投影半监督聚类[J].浙江大学学报(工学版),2011,45(05):934-940.
 
-10. Wu, Zongda & Xie, Jian & **Pan, Jun(通讯作者)**& Su, Xining. (2019). An Effective Approach for the Protection of User Privacy in a Digital Library. Libri. 69. 315-324. 
+10. Wu, Zongda & Xie, Jian & Pan, Jun(通讯作者)& Su, Xining. (2019). An Effective Approach for the Protection of User Privacy in a Digital Library. Libri. 69. 315-324. 
 
-11. Wu, Zongda & Xie, Jian & Lian, Xinze &**Pan,Jun（通讯作者）**. (2019). A privacy protection approach for XML-based archives management in a cloud environment. The Electronic Library.
+11. Wu, Zongda & Xie, Jian & Lian, Xinze &Pan,Jun（通讯作者）. (2019). A privacy protection approach for XML-based archives management in a cloud environment. The Electronic Library.
 
 12. 王瑞琴,潘俊,冯建军.基于信任计算和矩阵分解的推荐算法[J].模式识别与人工智能,2018,31(09):786-796.
 
@@ -47,4 +48,4 @@
 
 14. 王瑞琴,孔繁胜,潘俊.基于WordNet的无导词义消歧方法[J].浙江大学学报(工学版),2010,44(04):732-737.
 
-15.
+15.</font>
